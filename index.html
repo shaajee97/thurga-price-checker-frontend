@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Thurga Grocery Price Checker</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <img src="thurga-banner.jpg" alt="Thurga Grocery Banner" class="banner">
+    <h1>Thurga Grocery Price Checker</h1>
+
+    <button id="resetBtn">Reset for Next Customer</button>
+
+    <div id="itemList"></div>
+
+    <!-- Hidden input for barcode scanner to stay active -->
+    <input type="text" id="hiddenInput" autofocus style="opacity:0;position:absolute;left:-9999px;">
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
