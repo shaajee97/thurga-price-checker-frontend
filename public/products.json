@@ -1,5 +1,11 @@
 [
   {
+    "name": "Rolls",
+    "price": 1.75,
+    "code": "",
+    "inventory": null
+  },
+  {
     "name": "MARGO",
     "price": 1,
     "code": "",
@@ -590,12 +596,6 @@
   {
     "name": "MEGH POOL MAK 200 G",
     "price": 12.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "NESTLE M. BAR 24 G",
-    "price": 1,
     "code": "",
     "inventory": null
   }
