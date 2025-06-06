@@ -1,5 +1,11 @@
 [
   {
+    "name": "cosmetic",
+    "price": 0,
+    "code": "",
+    "inventory": null
+  },
+  {
     "name": "King Fish",
     "price": 0,
     "code": "",
@@ -590,12 +596,6 @@
   {
     "name": "SHAN TOMATO 315 G",
     "price": 3.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "MEGH RICE FLOUR 8 L",
-    "price": 12.99,
     "code": "",
     "inventory": null
   }
