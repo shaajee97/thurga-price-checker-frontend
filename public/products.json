@@ -1,13 +1,277 @@
 [
   {
-    "name": "King Fish",
+    "name": "Cosmetic",
     "price": 0,
     "code": "",
     "inventory": null
   },
   {
+    "name": "Misc",
+    "price": 0,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Appliance",
+    "price": 0,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Fish 17.99",
+    "price": 17.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Fish 16.99",
+    "price": 16.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Fish 15.99",
+    "price": 15.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Fish 14.99",
+    "price": 14.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Fish 12.99",
+    "price": 12.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Fish 8.99",
+    "price": 8.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Open Vegetable ",
+    "price": 0,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Banana 2",
+    "price": 6.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Banana 1",
+    "price": 2.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Open Vegetabe Scale",
+    "price": 0,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Open Veg Price 8",
+    "price": 7.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Open Veg Price 7",
+    "price": 6.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Open Veg Price 6",
+    "price": 5.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Open Veg Price 5",
+    "price": 4.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Open Veg Price 4",
+    "price": 3.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Open Veg Price 3",
+    "price": 2.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Open Veg Price 2",
+    "price": 1.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Open Veg Price 1",
+    "price": 0.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Ginger",
+    "price": 1.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Onion price 4",
+    "price": 7.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Onion price 3",
+    "price": 3.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Onion price 2",
+    "price": 2.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Onion price 1",
+    "price": 1.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Tindura",
+    "price": 5.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Beans",
+    "price": 6.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Okra",
+    "price": 6.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Mango",
+    "price": 4.5,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Drumstick",
+    "price": 7.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Ramba",
+    "price": 4,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Chilli",
+    "price": 3.5,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Curry Leaves",
+    "price": 0,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Rice",
+    "price": 0,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Sweet",
+    "price": 0,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Fresh Food",
+    "price": 0,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Lump Rice",
+    "price": 15,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Patties",
+    "price": 2.5,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Idly",
+    "price": 7,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Dosa",
+    "price": 8.5,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Puttu",
+    "price": 8.5,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Spring Hopper",
+    "price": 8.5,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Vadda",
+    "price": 0.75,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Bun",
+    "price": 2.5,
+    "code": "",
+    "inventory": null
+  },
+  {
     "name": "Rolls",
-    "price": 1.75,
+    "price": 0,
     "code": "",
     "inventory": null
   },
@@ -36,6 +300,24 @@
     "inventory": null
   },
   {
+    "name": "BROWN BASMATHI",
+    "price": 14.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "EASTERN TAPIOCA S",
+    "price": 4.5,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "ELITE MATTA RICE 8LB",
+    "price": 11.99,
+    "code": "",
+    "inventory": null
+  },
+  {
     "name": "OVIJAT KALIJE RICE",
     "price": 12.99,
     "code": "",
@@ -44,6 +326,36 @@
   {
     "name": "SUHANA C/POHA 80 G",
     "price": 2,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "DAILY turmeric 400g",
+    "price": 5.5,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "DAILY RED RAW SINGLE",
+    "price": 13.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "DAILY RED RAW DOUBLE",
+    "price": 13.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "DAILY SAMBA RED",
+    "price": 14.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "DAILY Jaggery Po.1kg",
+    "price": 5.99,
     "code": "",
     "inventory": null
   },
@@ -72,6 +384,12 @@
     "inventory": null
   },
   {
+    "name": "araliya keeri samba",
+    "price": 14.99,
+    "code": "",
+    "inventory": null
+  },
+  {
     "name": "RED BASMATI RICE 454",
     "price": 4.99,
     "code": "",
@@ -90,8 +408,68 @@
     "inventory": null
   },
   {
+    "name": "DAILY JEERA SAMBA 10",
+    "price": 13.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "DAILY MATTA RICE",
+    "price": 19,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "DAILY SOONAMASOORI",
+    "price": 18.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "ARALIYA MUTHU SAMBA",
+    "price": 15.99,
+    "code": "",
+    "inventory": null
+  },
+  {
     "name": "LALQILLA DIABE",
     "price": 13.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "817 ELEPHANT",
+    "price": 16.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "ARALIYA RED SAMBA",
+    "price": 2.7,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "DAILY KEERI SAMBA",
+    "price": 6.5,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "AEROPLANE BASMATHI",
+    "price": 10.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "INDIAN STAR",
+    "price": 14.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "JAFFNA MOTTAKARU",
+    "price": 11,
     "code": "",
     "inventory": null
   },
@@ -102,8 +480,74 @@
     "inventory": null
   },
   {
+    "name": "ARALIYA RED SAMBA 5",
+    "price": 12.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "ARALIYA RED RICE 5",
+    "price": 12.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "ARALIYA WHITE NADU 5",
+    "price": 12.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "ARALIYA MOTTA KARU 5",
+    "price": 11,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "ARALIYA RED NADU",
+    "price": 11,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "ARALIYA SUDURU 5 KG",
+    "price": 17.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "ARALIYA SAMBA 1 KG",
+    "price": 2.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "CIC KEERI SAMBA",
+    "price": 3,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Grande Harvest Wh 8k",
+    "price": 11.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Grande Harvest 8KG",
+    "price": 13.99,
+    "code": "",
+    "inventory": null
+  },
+  {
     "name": "Texana Indian BR4KG",
     "price": 10.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Grande Harvest 4KG",
+    "price": 10,
     "code": "",
     "inventory": null
   },
@@ -114,8 +558,26 @@
     "inventory": null
   },
   {
+    "name": "Bengal Basmat 4KG",
+    "price": 10.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "IN Gate 20LB",
+    "price": 36,
+    "code": "",
+    "inventory": null
+  },
+  {
     "name": "Quality Ponni 8LBS",
     "price": 9.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Eastern Sorted R 10K",
+    "price": 32,
     "code": "",
     "inventory": null
   },
@@ -132,470 +594,8 @@
     "inventory": null
   },
   {
-    "name": "Shomal Rice BR 10LB",
-    "price": 11.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Lal Qilla BR 8LB",
-    "price": 14.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "NO.817 10Lbs",
-    "price": 14.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "LAL QILLA BASMATHI",
-    "price": 18.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Riz Basmati Qila",
-    "price": 12.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Maharani Diab Ri",
+    "name": "Double Horse 10KG",
     "price": 19.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Tilda Basma",
-    "price": 17.5,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Tilda Basmati",
-    "price": 49.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Maharani Basmati",
-    "price": 8.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "LalQila",
-    "price": 23.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "MEGHCRY. SUGAR 300 G",
-    "price": 2.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "TRU/ JAG . 2.2 LBS",
-    "price": 5.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "MEGH BALL 80 G",
-    "price": 2.25,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "LAX/ TAMARIND 600 G",
-    "price": 5.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "SHALLOTS  I BAG",
-    "price": 3.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "LAXMI MAMRA 400 G",
-    "price": 3.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "LX AVIAL MIX 400 G",
-    "price": 5,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "LAXMI SAMBAR 400 G",
-    "price": 5,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "T/ARASU URID FL 900",
-    "price": 6.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "N/F TOMATO PASTE 400",
-    "price": 2.49,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "MEGH KOLAM RICE 10 L",
-    "price": 19.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "MEGH ATTA 2 LBS",
-    "price": 3.49,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "MEGH ATTA 8 LBS",
-    "price": 14.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "SHAN TOMATO 315 G",
-    "price": 3.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "MEGH RICE FLOUR 8 L",
-    "price": 12.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "MEGH WH/DALIA 2 LBS",
-    "price": 3.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "TOP RAMEN NOODLE",
-    "price": 3.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "MEGH POOL MAK 200 G",
-    "price": 12.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "NESTLE M. BAR 24 G",
-    "price": 1,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "NESTLE CLASSIC 15 G",
-    "price": 1,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "MEGH K/JAGGERY 900 G",
-    "price": 4.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "MEGH METH/PARATA 400",
-    "price": 3.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "KALYA/ BHEL 200 G",
-    "price": 4.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "KAL/BHEL 200 G",
-    "price": 4.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "KNOR CHAT 50 G",
-    "price": 0.5,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "YOGINI JAG/ POW 2 LB",
-    "price": 6.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "N/F MISRI 100G",
-    "price": 2,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "N/F FENNEL CANDY 100",
-    "price": 1.49,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "N/F GARAM MASALA 400",
-    "price": 5.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "N/F CHIA SEED 400 G",
-    "price": 6.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "KNOR CHILLI 400 G",
-    "price": 4.25,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "TAMICON 200 G",
-    "price": 3.5,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "N/F GUAVA DRINK  3 L",
-    "price": 7.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "YOG/ JAGGERY  2 LBS",
-    "price": 6.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "YOGI / JAGGERY 2 LBS",
-    "price": 6.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "SHA CHEKIDILU 170 G",
-    "price": 3.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "SHA MIXTURE 170 G",
-    "price": 3.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "SHA CHEKKALU 170 G",
-    "price": 3.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "SHA R/PAKODA 170 G",
-    "price": 3.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "THALAIVA THATTAI 170",
-    "price": 3.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "THALAIVAKAI  150 G",
-    "price": 3.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "THALAIVA M/MURU 170",
-    "price": 3.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "LAL QILLA SELLA 10 L",
-    "price": 15.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "KNOR CHICKEN",
-    "price": 1,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "JYOTHI MIXTURE  500",
-    "price": 7.5,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "PRIYA SEMIYA 800 G",
-    "price": 4.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "JYOTHI MIXTURE 500 G",
-    "price": 7.5,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "YOGINI JAGGERY   LBS",
-    "price": 6.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "NARASU CANR JAGGERY",
-    "price": 6.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "YOGINI PALM  454 G",
-    "price": 7.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "PEANUT 400 GMS",
-    "price": 4.25,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "RAGI SEVAI 200 G",
-    "price": 3.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "UNIBIC CHOCO 150 G",
-    "price": 2.49,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "UNIBIC FRUIT 150 G",
-    "price": 2.49,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "UNIBIC PISTA 150",
-    "price": 2.49,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "UMIBIC CHOCO 200 G",
-    "price": 3.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "PEANUT 800 G",
-    "price": 6.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "MOM SP/PARATA 400 G",
-    "price": 3.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "MOM MISSY PARATA 400",
-    "price": 3.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "MOM P/PARATHA 400 G",
-    "price": 3.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "UNIBIC F/COOKIES 200",
-    "price": 3.49,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "UNIBIC S/BREAD 100 G",
-    "price": 2.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "TETLEY TEA 225 G",
-    "price": 6.5,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "NESCAFE RICH 95 G",
-    "price": 5.5,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "LX DESI JAGGERY 11 L",
-    "price": 19.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "LAXMI MOONG 2 LB",
-    "price": 4.5,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "LAXMI COCO/ POW 400",
-    "price": 4.5,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "LAXMI TOOR 4 LBS",
-    "price": 10.99,
     "code": "",
     "inventory": null
   }
