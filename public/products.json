@@ -1,5 +1,59 @@
 [
   {
+    "name": "Sprats",
+    "price": 0,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Fish",
+    "price": 0,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Sesame Ladoo",
+    "price": 5,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Instant Coffee",
+    "price": 2,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Masala Tea",
+    "price": 2,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Nescafe",
+    "price": 2,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Dry Vadai",
+    "price": 4,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Butter Cake",
+    "price": 5,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Banana Blossom",
+    "price": 4.99,
+    "code": "",
+    "inventory": null
+  },
+  {
     "name": "Cosmetic",
     "price": 0,
     "code": "",
@@ -252,13 +306,13 @@
     "inventory": null
   },
   {
-    "name": "Spring Hopper",
+    "name": "String Hopper",
     "price": 8.5,
     "code": "",
     "inventory": null
   },
   {
-    "name": "Vadda",
+    "name": "Vadai",
     "price": 0.75,
     "code": "",
     "inventory": null
@@ -542,60 +596,6 @@
   {
     "name": "Texana Indian BR4KG",
     "price": 10.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Grande Harvest 4KG",
-    "price": 10,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Royal Star 20LBS",
-    "price": 13.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Bengal Basmat 4KG",
-    "price": 10.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "IN Gate 20LB",
-    "price": 36,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Quality Ponni 8LBS",
-    "price": 9.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Eastern Sorted R 10K",
-    "price": 32,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Royal Sona Maso 20LB",
-    "price": 14.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Tilda Sona Maso 20LB",
-    "price": 15.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Double Horse 10KG",
-    "price": 19.99,
     "code": "",
     "inventory": null
   }
