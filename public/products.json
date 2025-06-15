@@ -1,5 +1,59 @@
 [
   {
+    "name": "Corn Flour",
+    "price": 2.5,
+    "code": "8904011516500",
+    "inventory": null
+  },
+  {
+    "name": "Bourn Vita",
+    "price": 9.99,
+    "code": "7622202309908",
+    "inventory": null
+  },
+  {
+    "name": "Kerala Papad",
+    "price": 2.99,
+    "code": "723246283173",
+    "inventory": null
+  },
+  {
+    "name": "Madras Ppad",
+    "price": 2.99,
+    "code": "723246283159",
+    "inventory": null
+  },
+  {
+    "name": "Meethiseeds",
+    "price": 3.99,
+    "code": "723246176710",
+    "inventory": null
+  },
+  {
+    "name": "Dosa Batter",
+    "price": 6.5,
+    "code": "627843597650",
+    "inventory": null
+  },
+  {
+    "name": "Idli Rice",
+    "price": 3.99,
+    "code": "8904323505575",
+    "inventory": null
+  },
+  {
+    "name": "Munch Max 9.6g",
+    "price": 2.5,
+    "code": "8901058005080",
+    "inventory": null
+  },
+  {
+    "name": "Luxmi Bhandi 300g",
+    "price": 3.99,
+    "code": "723246260761",
+    "inventory": null
+  },
+  {
     "name": "Sprats",
     "price": 0,
     "code": "",
@@ -542,60 +596,6 @@
   {
     "name": "ARALIYA RED RICE 5",
     "price": 12.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "ARALIYA WHITE NADU 5",
-    "price": 12.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "ARALIYA MOTTA KARU 5",
-    "price": 11,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "ARALIYA RED NADU",
-    "price": 11,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "ARALIYA SUDURU 5 KG",
-    "price": 17.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "ARALIYA SAMBA 1 KG",
-    "price": 2.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "CIC KEERI SAMBA",
-    "price": 3,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Grande Harvest Wh 8k",
-    "price": 11.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Grande Harvest 8KG",
-    "price": 13.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Texana Indian BR4KG",
-    "price": 10.99,
     "code": "",
     "inventory": null
   }
