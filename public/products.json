@@ -1,5 +1,17 @@
 [
   {
+    "name": "Maldivefish",
+    "price": 4.99,
+    "code": "4792173681761",
+    "inventory": null
+  },
+  {
+    "name": "Greated Coconut",
+    "price": 4.99,
+    "code": "723246287737",
+    "inventory": null
+  },
+  {
     "name": "Thalapath Dry Fish",
     "price": 8.99,
     "code": "4796031010496",
@@ -584,18 +596,6 @@
   {
     "name": "817 ELEPHANT",
     "price": 16.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "ARALIYA RED SAMBA",
-    "price": 2.7,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "DAILY KEERI SAMBA",
-    "price": 6.5,
     "code": "",
     "inventory": null
   }
