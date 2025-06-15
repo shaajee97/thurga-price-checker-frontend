@@ -1,5 +1,11 @@
 [
   {
+    "name": "Smokeless Camphor",
+    "price": 8.99,
+    "code": "8904323503649",
+    "inventory": null
+  },
+  {
     "name": "Mustrad 200g",
     "price": 2.99,
     "code": "8904430101486",
@@ -590,12 +596,6 @@
   {
     "name": "DAILY MATTA RICE",
     "price": 19,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "DAILY SOONAMASOORI",
-    "price": 18.99,
     "code": "",
     "inventory": null
   }
