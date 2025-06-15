@@ -1,5 +1,17 @@
 [
   {
+    "name": "Madreas Applam",
+    "price": 2.99,
+    "code": "723246283142",
+    "inventory": null
+  },
+  {
+    "name": "Idli Batter",
+    "price": 6.5,
+    "code": "627843597667",
+    "inventory": null
+  },
+  {
     "name": "Corn Flour",
     "price": 2.5,
     "code": "8904011516500",
@@ -584,18 +596,6 @@
   {
     "name": "qilla pre basmathi",
     "price": 15.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "ARALIYA RED SAMBA 5",
-    "price": 12.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "ARALIYA RED RICE 5",
-    "price": 12.99,
     "code": "",
     "inventory": null
   }
