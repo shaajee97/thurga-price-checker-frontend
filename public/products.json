@@ -1,5 +1,11 @@
 [
   {
+    "name": "Thalapath Dry Fish",
+    "price": 8.99,
+    "code": "4796031010496",
+    "inventory": null
+  },
+  {
     "name": "Shark Dry Fish",
     "price": 8.99,
     "code": "4796031010526",
@@ -590,12 +596,6 @@
   {
     "name": "DAILY KEERI SAMBA",
     "price": 6.5,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "AEROPLANE BASMATHI",
-    "price": 10.99,
     "code": "",
     "inventory": null
   }
