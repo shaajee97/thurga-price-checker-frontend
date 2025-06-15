@@ -1,5 +1,11 @@
 [
   {
+    "name": "Dried Anchovys",
+    "price": 8.99,
+    "code": "4796031010540",
+    "inventory": null
+  },
+  {
     "name": "Madreas Applam",
     "price": 2.99,
     "code": "723246283142",
@@ -590,12 +596,6 @@
   {
     "name": "JAFFNA MOTTAKARU",
     "price": 11,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "qilla pre basmathi",
-    "price": 15.99,
     "code": "",
     "inventory": null
   }
