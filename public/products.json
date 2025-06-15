@@ -1,5 +1,17 @@
 [
   {
+    "name": "Shark Dry Fish",
+    "price": 8.99,
+    "code": "4796031010526",
+    "inventory": null
+  },
+  {
+    "name": "Coconut",
+    "price": 4.5,
+    "code": "",
+    "inventory": null
+  },
+  {
     "name": "Dried Anchovys",
     "price": 8.99,
     "code": "4796031010540",
@@ -584,18 +596,6 @@
   {
     "name": "AEROPLANE BASMATHI",
     "price": 10.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "INDIAN STAR",
-    "price": 14.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "JAFFNA MOTTAKARU",
-    "price": 11,
     "code": "",
     "inventory": null
   }
