@@ -1,5 +1,17 @@
 [
   {
+    "name": "Mustrad 200g",
+    "price": 2.99,
+    "code": "8904430101486",
+    "inventory": null
+  },
+  {
+    "name": "Hand Muruku",
+    "price": 3.99,
+    "code": "8907003504721",
+    "inventory": null
+  },
+  {
     "name": "Decan Sona Masoori 10 Lb",
     "price": 0,
     "code": "721633110781",
@@ -584,18 +596,6 @@
   {
     "name": "DAILY SOONAMASOORI",
     "price": 18.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "ARALIYA MUTHU SAMBA",
-    "price": 15.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "LALQILLA DIABE",
-    "price": 13.99,
     "code": "",
     "inventory": null
   }
