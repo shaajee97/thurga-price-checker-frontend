@@ -1,5 +1,35 @@
 [
   {
+    "name": "Wijaya Chili Powder",
+    "price": 8.99,
+    "code": "4792173010035",
+    "inventory": null
+  },
+  {
+    "name": "Vermicelli 400g",
+    "price": 3.99,
+    "code": "775620803606",
+    "inventory": null
+  },
+  {
+    "name": "Beans Luxmi",
+    "price": 3.99,
+    "code": "723246289007",
+    "inventory": null
+  },
+  {
+    "name": "Sambol",
+    "price": 9.99,
+    "code": "4796031010410",
+    "inventory": null
+  },
+  {
+    "name": "Coconut",
+    "price": 4.5,
+    "code": "",
+    "inventory": null
+  },
+  {
     "name": "Smokeless Camphor",
     "price": 8.99,
     "code": "8904323503649",
@@ -566,36 +596,6 @@
   {
     "name": "araliya keeri samba",
     "price": 14.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "RED BASMATI RICE 454",
-    "price": 4.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "WILD RICE BLEND 454",
-    "price": 4.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "WILD RICE 454 G",
-    "price": 4.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "DAILY JEERA SAMBA 10",
-    "price": 13.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "DAILY MATTA RICE",
-    "price": 19,
     "code": "",
     "inventory": null
   }
