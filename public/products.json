@@ -1,5 +1,11 @@
 [
   {
+    "name": "Luxmi Basan 4 Lb",
+    "price": 9.5,
+    "code": "723246287454",
+    "inventory": null
+  },
+  {
     "name": "Wijaya Chili Powder",
     "price": 8.99,
     "code": "4792173010035",
@@ -590,12 +596,6 @@
   {
     "name": "RAVI POONI RICE",
     "price": 15.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "araliya keeri samba",
-    "price": 14.99,
     "code": "",
     "inventory": null
   }
