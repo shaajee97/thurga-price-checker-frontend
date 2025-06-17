@@ -1,5 +1,17 @@
 [
   {
+    "name": "Rotti",
+    "price": 2.5,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Drumstick Leaves",
+    "price": 3.99,
+    "code": "",
+    "inventory": null
+  },
+  {
     "name": "Lanka Soy",
     "price": 1.99,
     "code": "4796002070313",
@@ -584,18 +596,6 @@
   {
     "name": "DAILY Jaggery Po.1kg",
     "price": 5.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "PAVIZHAM RICE",
-    "price": 24.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "VERKA SONAMASOORI RI",
-    "price": 30,
     "code": "",
     "inventory": null
   }
