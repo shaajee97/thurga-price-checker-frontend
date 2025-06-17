@@ -1,5 +1,17 @@
 [
   {
+    "name": "Maldives Fishchilli",
+    "price": 8.5,
+    "code": "4796031010458",
+    "inventory": null
+  },
+  {
+    "name": "Vibuthi 50",
+    "price": 2,
+    "code": "8904323505230",
+    "inventory": null
+  },
+  {
     "name": "Rotti",
     "price": 2.5,
     "code": "",
@@ -584,18 +596,6 @@
   {
     "name": "DAILY RED RAW DOUBLE",
     "price": 13.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "DAILY SAMBA RED",
-    "price": 14.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "DAILY Jaggery Po.1kg",
-    "price": 5.99,
     "code": "",
     "inventory": null
   }
