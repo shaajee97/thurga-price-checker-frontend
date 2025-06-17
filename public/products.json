@@ -1,5 +1,17 @@
 [
   {
+    "name": "Lanka Soy",
+    "price": 1.99,
+    "code": "4796002070313",
+    "inventory": null
+  },
+  {
+    "name": "White Pepper Powder 100g",
+    "price": 3.99,
+    "code": "675305252562",
+    "inventory": null
+  },
+  {
     "name": "Luxmi Basan 4 Lb",
     "price": 9.5,
     "code": "723246287454",
@@ -584,18 +596,6 @@
   {
     "name": "VERKA SONAMASOORI RI",
     "price": 30,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "RAVI IDLI RICE",
-    "price": 15.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "RAVI POONI RICE",
-    "price": 15.99,
     "code": "",
     "inventory": null
   }
