@@ -1,5 +1,35 @@
 [
   {
+    "name": "Dosa Batter 1800 Cc",
+    "price": 6.5,
+    "code": "627843597704",
+    "inventory": null
+  },
+  {
+    "name": "Cumin Seeds 400g Luxmi",
+    "price": 8.99,
+    "code": "723246176475",
+    "inventory": null
+  },
+  {
+    "name": "Bag",
+    "price": 0.5,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "BF Pasta Sauce",
+    "price": 3.99,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Idli Chilli Powder 100g",
+    "price": 3.99,
+    "code": "8906021124140",
+    "inventory": null
+  },
+  {
     "name": "Chia Seeds Nt 200g",
     "price": 3.99,
     "code": "675305257154",
@@ -566,36 +596,6 @@
   {
     "name": "EASTERN TAPIOCA S",
     "price": 4.5,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "ELITE MATTA RICE 8LB",
-    "price": 11.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "OVIJAT KALIJE RICE",
-    "price": 12.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "SUHANA C/POHA 80 G",
-    "price": 2,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "DAILY turmeric 400g",
-    "price": 5.5,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "DAILY RED RAW SINGLE",
-    "price": 13.99,
     "code": "",
     "inventory": null
   }
