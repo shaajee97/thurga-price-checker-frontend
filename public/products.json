@@ -1,5 +1,11 @@
 [
   {
+    "name": "Chia Seeds Nt 200g",
+    "price": 3.99,
+    "code": "675305257154",
+    "inventory": null
+  },
+  {
     "name": "Maldives Fishchilli",
     "price": 8.5,
     "code": "4796031010458",
@@ -589,12 +595,6 @@
   },
   {
     "name": "DAILY RED RAW SINGLE",
-    "price": 13.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "DAILY RED RAW DOUBLE",
     "price": 13.99,
     "code": "",
     "inventory": null
