@@ -1,5 +1,11 @@
 [
   {
+    "name": "Dried Kooni",
+    "price": 9.99,
+    "code": "4796031010472",
+    "inventory": null
+  },
+  {
     "name": "Surati Plain Khari",
     "price": 2.5,
     "code": "068656017179",
@@ -590,12 +596,6 @@
   {
     "name": "QILLA PRE 2LB",
     "price": 4.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "BROWN BASMATHI",
-    "price": 14.99,
     "code": "",
     "inventory": null
   }
