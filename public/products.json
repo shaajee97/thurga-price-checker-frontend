@@ -1,5 +1,11 @@
 [
   {
+    "name": "Surati Plain Khari",
+    "price": 2.5,
+    "code": "068656017179",
+    "inventory": null
+  },
+  {
     "name": "Dosa Batter 1800 Cc",
     "price": 6.5,
     "code": "627843597704",
@@ -590,12 +596,6 @@
   {
     "name": "BROWN BASMATHI",
     "price": 14.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "EASTERN TAPIOCA S",
-    "price": 4.5,
     "code": "",
     "inventory": null
   }
