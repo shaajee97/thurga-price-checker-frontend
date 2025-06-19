@@ -1,5 +1,17 @@
 [
   {
+    "name": "Matri 1 Lb. Nurt",
+    "price": 2.5,
+    "code": "628055838586",
+    "inventory": null
+  },
+  {
+    "name": "Tindora 300g Luxmi",
+    "price": 3.99,
+    "code": "723246260808",
+    "inventory": null
+  },
+  {
     "name": "Dried Kooni",
     "price": 9.99,
     "code": "4796031010472",
@@ -49,7 +61,7 @@
   },
   {
     "name": "Maldives Fishchilli",
-    "price": 8.5,
+    "price": 8.99,
     "code": "4796031010458",
     "inventory": null
   },
@@ -584,18 +596,6 @@
   {
     "name": "Quality  Rice Flour",
     "price": 2.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "QILLA  BRO BAS RICE",
-    "price": 4.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "QILLA PRE 2LB",
-    "price": 4.99,
     "code": "",
     "inventory": null
   }
