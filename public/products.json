@@ -1,5 +1,11 @@
 [
   {
+    "name": "Black Cardamom 100g",
+    "price": 7.99,
+    "code": "916047997541",
+    "inventory": null
+  },
+  {
     "name": "Matri 1 Lb. Nurt",
     "price": 2.5,
     "code": "628055838586",
@@ -590,12 +596,6 @@
   {
     "name": "MARGO",
     "price": 1,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Quality  Rice Flour",
-    "price": 2.99,
     "code": "",
     "inventory": null
   }
