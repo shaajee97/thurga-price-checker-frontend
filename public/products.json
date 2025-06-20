@@ -1,5 +1,41 @@
 [
   {
+    "name": "Soya Chunks 400g Gajanand",
+    "price": 3.99,
+    "code": "8904430106245",
+    "inventory": null
+  },
+  {
+    "name": "Shan Garam Masala 50g",
+    "price": 2.25,
+    "code": "788821060143",
+    "inventory": null
+  },
+  {
+    "name": "Karela Luxmi 300g",
+    "price": 3.99,
+    "code": "723246260792",
+    "inventory": null
+  },
+  {
+    "name": "Natura Coconut Water",
+    "price": 4.5,
+    "code": "8901088757768",
+    "inventory": null
+  },
+  {
+    "name": "Katta Dry",
+    "price": 8.99,
+    "code": "4796031010489",
+    "inventory": null
+  },
+  {
+    "name": "Surti Mummura",
+    "price": 4.99,
+    "code": "8904323501539",
+    "inventory": null
+  },
+  {
     "name": "Black Cardamom 100g",
     "price": 7.99,
     "code": "916047997541",
@@ -560,42 +596,6 @@
   {
     "name": "Dosa",
     "price": 8.5,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Puttu",
-    "price": 8.5,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "String Hopper",
-    "price": 8.5,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Vadai",
-    "price": 0.75,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Bun",
-    "price": 2.5,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Rolls",
-    "price": 0,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "MARGO",
-    "price": 1,
     "code": "",
     "inventory": null
   }
