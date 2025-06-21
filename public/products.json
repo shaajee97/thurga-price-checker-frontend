@@ -1,5 +1,11 @@
 [
   {
+    "name": "Color Fryums Megh 200",
+    "price": 2.5,
+    "code": "8904323501041",
+    "inventory": null
+  },
+  {
     "name": "Basmti Rice",
     "price": 5.99,
     "code": "8901161202017",
@@ -589,12 +595,6 @@
   },
   {
     "name": "Sweet",
-    "price": 0,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Fresh Food",
     "price": 0,
     "code": "",
     "inventory": null
