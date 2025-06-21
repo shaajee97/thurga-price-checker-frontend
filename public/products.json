@@ -1,5 +1,23 @@
 [
   {
+    "name": "Cc Gingerlly Oil",
+    "price": 12.99,
+    "code": "628942713903",
+    "inventory": null
+  },
+  {
+    "name": "Cinnamon 50g",
+    "price": 3.99,
+    "code": "628942710681",
+    "inventory": null
+  },
+  {
+    "name": "Indian Anchovy",
+    "price": 13.99,
+    "code": "1 0205150100 7",
+    "inventory": null
+  },
+  {
     "name": "Cc Idli & dosa",
     "price": 12,
     "code": "627843597698",
@@ -578,24 +596,6 @@
   {
     "name": "Drumstick",
     "price": 7.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Ramba",
-    "price": 4,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Chilli",
-    "price": 3.5,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Curry Leaves",
-    "price": 0,
     "code": "",
     "inventory": null
   }
