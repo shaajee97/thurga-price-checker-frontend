@@ -1,5 +1,11 @@
 [
   {
+    "name": "Basmti Rice",
+    "price": 5.99,
+    "code": "8901161202017",
+    "inventory": null
+  },
+  {
     "name": "Kumkum",
     "price": 2.99,
     "code": "8904323501430",
@@ -590,12 +596,6 @@
   {
     "name": "Fresh Food",
     "price": 0,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Lump Rice",
-    "price": 15,
     "code": "",
     "inventory": null
   }
