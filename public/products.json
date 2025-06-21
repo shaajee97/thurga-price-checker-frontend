@@ -1,5 +1,23 @@
 [
   {
+    "name": "Kumkum",
+    "price": 2.99,
+    "code": "8904323501430",
+    "inventory": null
+  },
+  {
+    "name": "Gajanand Turmric Powder 400g",
+    "price": 4.99,
+    "code": "8904430101578",
+    "inventory": null
+  },
+  {
+    "name": "777 Appalam",
+    "price": 2.99,
+    "code": "064333",
+    "inventory": null
+  },
+  {
     "name": "Soya Chunks 400g Gajanand",
     "price": 3.99,
     "code": "8904430106245",
@@ -578,24 +596,6 @@
   {
     "name": "Lump Rice",
     "price": 15,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Patties",
-    "price": 2.5,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Idly",
-    "price": 7,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Dosa",
-    "price": 8.5,
     "code": "",
     "inventory": null
   }
