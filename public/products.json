@@ -1,5 +1,17 @@
 [
   {
+    "name": "Cc Idli & dosa",
+    "price": 12,
+    "code": "627843597698",
+    "inventory": null
+  },
+  {
+    "name": "Horlicks",
+    "price": 9.99,
+    "code": "5060113919359",
+    "inventory": null
+  },
+  {
     "name": "Color Fryums Megh 200",
     "price": 2.5,
     "code": "8904323501041",
@@ -583,18 +595,6 @@
   },
   {
     "name": "Curry Leaves",
-    "price": 0,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Rice",
-    "price": 0,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Sweet",
     "price": 0,
     "code": "",
     "inventory": null
