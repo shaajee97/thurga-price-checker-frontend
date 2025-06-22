@@ -1,5 +1,35 @@
 [
   {
+    "name": "Anchovy Captain",
+    "price": 14.99,
+    "code": "628693877046",
+    "inventory": null
+  },
+  {
+    "name": "Pony Fish Captain",
+    "price": 9.99,
+    "code": "628693877299",
+    "inventory": null
+  },
+  {
+    "name": "Wahoo Captain",
+    "price": 20.99,
+    "code": "628693877251",
+    "inventory": null
+  },
+  {
+    "name": "Malabar Porotta 908",
+    "price": 9.99,
+    "code": "414684442115",
+    "inventory": null
+  },
+  {
+    "name": "Sliced Coconut Savoys 400",
+    "price": 5.5,
+    "code": "414684442108",
+    "inventory": null
+  },
+  {
     "name": "Chlli Chicken 100g",
     "price": 3.99,
     "code": "8906021124010",
@@ -566,36 +596,6 @@
   {
     "name": "Ginger",
     "price": 1.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Onion price 4",
-    "price": 7.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Onion price 3",
-    "price": 3.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Onion price 2",
-    "price": 2.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Onion price 1",
-    "price": 1.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Tindura",
-    "price": 5.99,
     "code": "",
     "inventory": null
   }
