@@ -1,5 +1,29 @@
 [
   {
+    "name": "Chlli Chicken 100g",
+    "price": 3.99,
+    "code": "8906021124010",
+    "inventory": null
+  },
+  {
+    "name": "Garam Masala 100g",
+    "price": 3.99,
+    "code": "8906021124119",
+    "inventory": null
+  },
+  {
+    "name": "Meat Masala 100g",
+    "price": 3.99,
+    "code": "8906021124690",
+    "inventory": null
+  },
+  {
+    "name": "Coconut Suger 500g",
+    "price": 6.99,
+    "code": "778399",
+    "inventory": null
+  },
+  {
     "name": "Cc Gingerlly Oil",
     "price": 12.99,
     "code": "628942713903",
@@ -572,30 +596,6 @@
   {
     "name": "Tindura",
     "price": 5.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Beans",
-    "price": 6.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Okra",
-    "price": 6.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Mango",
-    "price": 4.5,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Drumstick",
-    "price": 7.99,
     "code": "",
     "inventory": null
   }
