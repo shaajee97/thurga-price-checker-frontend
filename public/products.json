@@ -1,5 +1,17 @@
 [
   {
+    "name": "Basil Seeds",
+    "price": 3,
+    "code": "8855044052285",
+    "inventory": null
+  },
+  {
+    "name": "Red Chili Powder 100g Aachi",
+    "price": 4.5,
+    "code": "8906021124027",
+    "inventory": null
+  },
+  {
     "name": "Anchovy Captain",
     "price": 14.99,
     "code": "628693877046",
@@ -583,18 +595,6 @@
   },
   {
     "name": "Open Veg Price 2",
-    "price": 1.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Open Veg Price 1",
-    "price": 0.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Ginger",
     "price": 1.99,
     "code": "",
     "inventory": null
