@@ -1,5 +1,11 @@
 [
   {
+    "name": "Camphor",
+    "price": 5.5,
+    "code": "8904323501515",
+    "inventory": null
+  },
+  {
     "name": "Basil Seeds",
     "price": 3,
     "code": "8855044052285",
@@ -590,12 +596,6 @@
   {
     "name": "Open Veg Price 3",
     "price": 2.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Open Veg Price 2",
-    "price": 1.99,
     "code": "",
     "inventory": null
   }
