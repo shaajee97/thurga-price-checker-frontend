@@ -1,5 +1,11 @@
 [
   {
+    "name": "Cinthol Lime",
+    "price": 1.99,
+    "code": "8901023020353",
+    "inventory": null
+  },
+  {
     "name": "Camphor",
     "price": 5.5,
     "code": "8904323501515",
@@ -590,12 +596,6 @@
   {
     "name": "Open Veg Price 4",
     "price": 3.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Open Veg Price 3",
-    "price": 2.99,
     "code": "",
     "inventory": null
   }
