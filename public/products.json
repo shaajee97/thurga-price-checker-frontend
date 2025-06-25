@@ -1,5 +1,11 @@
 [
   {
+    "name": "Cassava 150 G",
+    "price": 3.99,
+    "code": "659048128612",
+    "inventory": null
+  },
+  {
     "name": "Sesame Oil",
     "price": 11.99,
     "code": "749403751149",
@@ -590,12 +596,6 @@
   {
     "name": "Open Veg Price 6",
     "price": 5.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Open Veg Price 5",
-    "price": 4.99,
     "code": "",
     "inventory": null
   }
