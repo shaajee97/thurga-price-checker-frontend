@@ -1,5 +1,17 @@
 [
   {
+    "name": "Star Murukku 200 G",
+    "price": 3.99,
+    "code": "644730998604",
+    "inventory": null
+  },
+  {
+    "name": "Matta Rice",
+    "price": 6.99,
+    "code": "659048127707",
+    "inventory": null
+  },
+  {
     "name": "Cassava 150 G",
     "price": 3.99,
     "code": "659048128612",
@@ -584,18 +596,6 @@
   {
     "name": "Open Veg Price 8",
     "price": 7.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Open Veg Price 7",
-    "price": 6.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Open Veg Price 6",
-    "price": 5.99,
     "code": "",
     "inventory": null
   }
