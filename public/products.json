@@ -1,5 +1,11 @@
 [
   {
+    "name": "Onion Murukku 150 G",
+    "price": 3.99,
+    "code": "659048128605",
+    "inventory": null
+  },
+  {
     "name": "Star Murukku 200 G",
     "price": 3.99,
     "code": "644730998604",
@@ -590,12 +596,6 @@
   {
     "name": "Open Vegetabe Scale",
     "price": 0,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Open Veg Price 8",
-    "price": 7.99,
     "code": "",
     "inventory": null
   }
