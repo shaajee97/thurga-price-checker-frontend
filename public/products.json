@@ -1,5 +1,11 @@
 [
   {
+    "name": "Kalyani Muruku 150",
+    "price": 3.99,
+    "code": "659048126472",
+    "inventory": null
+  },
+  {
     "name": "Onion Murukku 150 G",
     "price": 3.99,
     "code": "659048128605",
@@ -590,12 +596,6 @@
   {
     "name": "Banana 1",
     "price": 2.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Open Vegetabe Scale",
-    "price": 0,
     "code": "",
     "inventory": null
   }
