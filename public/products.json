@@ -1,5 +1,23 @@
 [
   {
+    "name": "Bombay Duck 200g",
+    "price": 8.99,
+    "code": "4796031010618",
+    "inventory": null
+  },
+  {
+    "name": "Maggi Sauce Piquante",
+    "price": 4.5,
+    "code": "055000595001",
+    "inventory": null
+  },
+  {
+    "name": "Corn Flourr 2lb Mega",
+    "price": 3.99,
+    "code": "8904323500532",
+    "inventory": null
+  },
+  {
     "name": "Kalyani Muruku 150",
     "price": 3.99,
     "code": "659048126472",
@@ -578,24 +596,6 @@
   {
     "name": "Fish 8.99",
     "price": 8.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Open Vegetable ",
-    "price": 0,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Banana 2",
-    "price": 6.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Banana 1",
-    "price": 2.99,
     "code": "",
     "inventory": null
   }
