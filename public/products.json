@@ -1,5 +1,17 @@
 [
   {
+    "name": "Rosted Dalia Megh 2lb",
+    "price": 6.99,
+    "code": "8904323503519",
+    "inventory": null
+  },
+  {
+    "name": "Monsrer",
+    "price": 2.5,
+    "code": "070847015208",
+    "inventory": null
+  },
+  {
     "name": "Fennal Seds 200g",
     "price": 3.99,
     "code": "723246178004",
@@ -584,18 +596,6 @@
   {
     "name": "Fish 15.99",
     "price": 15.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Fish 14.99",
-    "price": 14.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Fish 12.99",
-    "price": 12.99,
     "code": "",
     "inventory": null
   }
