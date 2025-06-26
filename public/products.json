@@ -1,5 +1,11 @@
 [
   {
+    "name": "Fennal Seds 200g",
+    "price": 3.99,
+    "code": "723246178004",
+    "inventory": null
+  },
+  {
     "name": "Bombay Duck 200g",
     "price": 8.99,
     "code": "4796031010618",
@@ -590,12 +596,6 @@
   {
     "name": "Fish 12.99",
     "price": 12.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Fish 8.99",
-    "price": 8.99,
     "code": "",
     "inventory": null
   }
