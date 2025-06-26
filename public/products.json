@@ -1,5 +1,11 @@
 [
   {
+    "name": "Congura Telungu 300g",
+    "price": 3.99,
+    "code": "8906081381071",
+    "inventory": null
+  },
+  {
     "name": "Rosted Dalia Megh 2lb",
     "price": 6.99,
     "code": "8904323503519",
@@ -590,12 +596,6 @@
   {
     "name": "Fish 16.99",
     "price": 16.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Fish 15.99",
-    "price": 15.99,
     "code": "",
     "inventory": null
   }
