@@ -1,5 +1,11 @@
 [
   {
+    "name": "Jain Chutney",
+    "price": 3.99,
+    "code": "8901595864027",
+    "inventory": null
+  },
+  {
     "name": "Congura Telungu 300g",
     "price": 3.99,
     "code": "8906081381071",
@@ -590,12 +596,6 @@
   {
     "name": "Fish 17.99",
     "price": 17.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Fish 16.99",
-    "price": 16.99,
     "code": "",
     "inventory": null
   }
