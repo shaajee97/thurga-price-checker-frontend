@@ -1,5 +1,11 @@
 [
   {
+    "name": "Laxmi  Laddu 100g",
+    "price": 2,
+    "code": "723246286402",
+    "inventory": null
+  },
+  {
     "name": "Soy 90 G",
     "price": 1.99,
     "code": "4796002070306",
@@ -589,12 +595,6 @@
   },
   {
     "name": "Misc",
-    "price": 0,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Appliance",
     "price": 0,
     "code": "",
     "inventory": null
