@@ -1,5 +1,11 @@
 [
   {
+    "name": "Soy 90 G",
+    "price": 1.99,
+    "code": "4796002070306",
+    "inventory": null
+  },
+  {
     "name": "Jain Chutney",
     "price": 3.99,
     "code": "8901595864027",
@@ -590,12 +596,6 @@
   {
     "name": "Appliance",
     "price": 0,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Fish 17.99",
-    "price": 17.99,
     "code": "",
     "inventory": null
   }
