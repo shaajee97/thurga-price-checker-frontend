@@ -1,5 +1,17 @@
 [
   {
+    "name": "Chinese Chilli Paste 200g",
+    "price": 5.99,
+    "code": "4792082700041",
+    "inventory": null
+  },
+  {
+    "name": "Mc Katta Sambol",
+    "price": 8.99,
+    "code": "4792082700119",
+    "inventory": null
+  },
+  {
     "name": "Rexona 80g",
     "price": 1.5,
     "code": "4792081036943",
@@ -584,18 +596,6 @@
   {
     "name": "Nescafe",
     "price": 2,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Dry Vadai",
-    "price": 4,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Butter Cake",
-    "price": 5,
     "code": "",
     "inventory": null
   }
