@@ -1,5 +1,17 @@
 [
   {
+    "name": "Lanka Soy",
+    "price": 1.99,
+    "code": "4796002070160",
+    "inventory": null
+  },
+  {
+    "name": "Chanan Powder",
+    "price": 2.99,
+    "code": "8904323503984",
+    "inventory": null
+  },
+  {
     "name": "Chinese Chilli Paste 200g",
     "price": 5.99,
     "code": "4792082700041",
@@ -583,18 +595,6 @@
   },
   {
     "name": "Instant Coffee",
-    "price": 2,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Masala Tea",
-    "price": 2,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Nescafe",
     "price": 2,
     "code": "",
     "inventory": null
