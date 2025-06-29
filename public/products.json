@@ -1,5 +1,11 @@
 [
   {
+    "name": "Dried Anchoyes",
+    "price": 8.99,
+    "code": "4796031010533",
+    "inventory": null
+  },
+  {
     "name": "Lanka Soy",
     "price": 1.99,
     "code": "4796002070160",
@@ -590,12 +596,6 @@
   {
     "name": "Sesame Ladoo",
     "price": 5,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Instant Coffee",
-    "price": 2,
     "code": "",
     "inventory": null
   }
