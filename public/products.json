@@ -1,5 +1,23 @@
 [
   {
+    "name": "Rexona 80g",
+    "price": 1.5,
+    "code": "4792081036943",
+    "inventory": null
+  },
+  {
+    "name": "Whole Whet",
+    "price": 13.99,
+    "code": "9556587102350",
+    "inventory": null
+  },
+  {
+    "name": "Karpu Kanvuni",
+    "price": 7.99,
+    "code": "779140007810",
+    "inventory": null
+  },
+  {
     "name": "Laxmi  Laddu 100g",
     "price": 2,
     "code": "723246286402",
@@ -578,24 +596,6 @@
   {
     "name": "Butter Cake",
     "price": 5,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Banana Blossom",
-    "price": 4.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Cosmetic",
-    "price": 0,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Misc",
-    "price": 0,
     "code": "",
     "inventory": null
   }
