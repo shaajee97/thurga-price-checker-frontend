@@ -1,5 +1,17 @@
 [
   {
+    "name": "Color Fryums",
+    "price": 2.5,
+    "code": "8904323501034",
+    "inventory": null
+  },
+  {
+    "name": "Rooti Methi",
+    "price": 5,
+    "code": "627265012656",
+    "inventory": null
+  },
+  {
     "name": "Dried Anchoyes",
     "price": 8.99,
     "code": "4796031010533",
@@ -584,18 +596,6 @@
   {
     "name": "Sprats",
     "price": 0,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Fish",
-    "price": 0,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Sesame Ladoo",
-    "price": 5,
     "code": "",
     "inventory": null
   }
