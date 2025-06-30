@@ -1,5 +1,11 @@
 [
   {
+    "name": "Meat Curry Powder Wijaya 250g",
+    "price": 4.99,
+    "code": "4792173050024",
+    "inventory": null
+  },
+  {
     "name": "Color Fryums",
     "price": 2.5,
     "code": "8904323501034",
@@ -487,7 +493,7 @@
   },
   {
     "name": "Decan Sona Masoori 10 Lb",
-    "price": 0,
+    "price": 14,
     "code": "721633110781",
     "inventory": null
   },
@@ -591,12 +597,6 @@
     "name": "Luxmi Bhandi 300g",
     "price": 3.99,
     "code": "723246260761",
-    "inventory": null
-  },
-  {
-    "name": "Sprats",
-    "price": 0,
-    "code": "",
     "inventory": null
   }
 ]
