@@ -1,5 +1,11 @@
 [
   {
+    "name": "Dalia Whole 200",
+    "price": 2.99,
+    "code": "675305253118",
+    "inventory": null
+  },
+  {
     "name": "Mini Idly",
     "price": 9.99,
     "code": "723246290577",
@@ -591,12 +597,6 @@
     "name": "Idli Rice",
     "price": 3.99,
     "code": "8904323505575",
-    "inventory": null
-  },
-  {
-    "name": "Munch Max 9.6g",
-    "price": 2.5,
-    "code": "8901058005080",
     "inventory": null
   }
 ]
