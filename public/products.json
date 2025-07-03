@@ -1,5 +1,11 @@
 [
   {
+    "name": "Fennsl",
+    "price": 5.99,
+    "code": "8904430101585",
+    "inventory": null
+  },
+  {
     "name": "Dalia Whole 200",
     "price": 2.99,
     "code": "675305253118",
@@ -591,12 +597,6 @@
     "name": "Dosa Batter",
     "price": 6.5,
     "code": "627843597650",
-    "inventory": null
-  },
-  {
-    "name": "Idli Rice",
-    "price": 3.99,
-    "code": "8904323505575",
     "inventory": null
   }
 ]
