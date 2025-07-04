@@ -1,5 +1,11 @@
 [
   {
+    "name": "Puttu",
+    "price": 8.5,
+    "code": "",
+    "inventory": null
+  },
+  {
     "name": "Parachute 100",
     "price": 2.99,
     "code": "89002940",
@@ -591,12 +597,6 @@
     "name": "Maldivefish",
     "price": 4.99,
     "code": "4792173681761",
-    "inventory": null
-  },
-  {
-    "name": "Greated Coconut",
-    "price": 4.99,
-    "code": "723246287737",
     "inventory": null
   }
 ]
