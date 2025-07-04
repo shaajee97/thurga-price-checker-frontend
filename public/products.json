@@ -1,5 +1,17 @@
 [
   {
+    "name": "Kili Parotta",
+    "price": 12.99,
+    "code": "659048126212",
+    "inventory": null
+  },
+  {
+    "name": "Idiyappam 1kg",
+    "price": 8.99,
+    "code": "659048126274",
+    "inventory": null
+  },
+  {
     "name": "Boli 13",
     "price": 5.99,
     "code": "749565642675",
@@ -585,18 +597,6 @@
     "name": "Shark Dry Fish",
     "price": 8.99,
     "code": "4796031010526",
-    "inventory": null
-  },
-  {
-    "name": "Coconut",
-    "price": 4.5,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Dried Anchovys",
-    "price": 8.99,
-    "code": "4796031010540",
     "inventory": null
   }
 ]
