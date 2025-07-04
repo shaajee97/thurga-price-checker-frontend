@@ -1,5 +1,53 @@
 [
   {
+    "name": "Boli 13",
+    "price": 5.99,
+    "code": "749565642675",
+    "inventory": null
+  },
+  {
+    "name": "Nadan Chapati 10",
+    "price": 4.99,
+    "code": "749565640329",
+    "inventory": null
+  },
+  {
+    "name": "Banana Fry 1kg",
+    "price": 9.99,
+    "code": "659048126267",
+    "inventory": null
+  },
+  {
+    "name": "Perk 20gm",
+    "price": 1,
+    "code": "7622202265525",
+    "inventory": null
+  },
+  {
+    "name": "Magic Masala",
+    "price": 2.99,
+    "code": "8901058007220",
+    "inventory": null
+  },
+  {
+    "name": "Special Masala Maggi",
+    "price": 3.99,
+    "code": "8901058005790",
+    "inventory": null
+  },
+  {
+    "name": "Karela Jamun Neem",
+    "price": 5.99,
+    "code": "461390690200",
+    "inventory": null
+  },
+  {
+    "name": "Triphala Neem",
+    "price": 5.99,
+    "code": "046139068986",
+    "inventory": null
+  },
+  {
     "name": "Fennsl",
     "price": 5.99,
     "code": "8904430101585",
@@ -549,54 +597,6 @@
     "name": "Dried Anchovys",
     "price": 8.99,
     "code": "4796031010540",
-    "inventory": null
-  },
-  {
-    "name": "Madreas Applam",
-    "price": 2.99,
-    "code": "723246283142",
-    "inventory": null
-  },
-  {
-    "name": "Idli Batter",
-    "price": 6.5,
-    "code": "627843597667",
-    "inventory": null
-  },
-  {
-    "name": "Corn Flour",
-    "price": 2.5,
-    "code": "8904011516500",
-    "inventory": null
-  },
-  {
-    "name": "Bourn Vita",
-    "price": 9.99,
-    "code": "7622202309908",
-    "inventory": null
-  },
-  {
-    "name": "Kerala Papad",
-    "price": 2.99,
-    "code": "723246283173",
-    "inventory": null
-  },
-  {
-    "name": "Madras Ppad",
-    "price": 2.99,
-    "code": "723246283159",
-    "inventory": null
-  },
-  {
-    "name": "Meethiseeds",
-    "price": 3.99,
-    "code": "723246176710",
-    "inventory": null
-  },
-  {
-    "name": "Dosa Batter",
-    "price": 6.5,
-    "code": "627843597650",
     "inventory": null
   }
 ]
