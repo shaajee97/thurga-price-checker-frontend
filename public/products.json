@@ -1,5 +1,17 @@
 [
   {
+    "name": "Parachute 100",
+    "price": 2.99,
+    "code": "89002940",
+    "inventory": null
+  },
+  {
+    "name": "Carrmel Pudding",
+    "price": 2.99,
+    "code": "4792098312832",
+    "inventory": null
+  },
+  {
     "name": "Kili Parotta",
     "price": 12.99,
     "code": "659048126212",
@@ -585,18 +597,6 @@
     "name": "Greated Coconut",
     "price": 4.99,
     "code": "723246287737",
-    "inventory": null
-  },
-  {
-    "name": "Thalapath Dry Fish",
-    "price": 8.99,
-    "code": "4796031010496",
-    "inventory": null
-  },
-  {
-    "name": "Shark Dry Fish",
-    "price": 8.99,
-    "code": "4796031010526",
     "inventory": null
   }
 ]
