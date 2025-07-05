@@ -1,5 +1,17 @@
 [
   {
+    "name": "Amul Cow Ghee",
+    "price": 26,
+    "code": "8901262030243",
+    "inventory": null
+  },
+  {
+    "name": "Waiwai",
+    "price": 0.89,
+    "code": "8906013030022",
+    "inventory": null
+  },
+  {
     "name": "Puttu",
     "price": 8.5,
     "code": "",
@@ -585,18 +597,6 @@
     "name": "Hand Muruku",
     "price": 3.99,
     "code": "8907003504721",
-    "inventory": null
-  },
-  {
-    "name": "Decan Sona Masoori 10 Lb",
-    "price": 14,
-    "code": "721633110781",
-    "inventory": null
-  },
-  {
-    "name": "Maldivefish",
-    "price": 4.99,
-    "code": "4792173681761",
     "inventory": null
   }
 ]
