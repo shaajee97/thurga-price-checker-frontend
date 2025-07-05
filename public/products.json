@@ -1,5 +1,35 @@
 [
   {
+    "name": "Maaa",
+    "price": 2.99,
+    "code": "8902979044523",
+    "inventory": null
+  },
+  {
+    "name": "Mackeral Curry",
+    "price": 10.99,
+    "code": "664648420202",
+    "inventory": null
+  },
+  {
+    "name": "Fish Cutlet",
+    "price": 9.99,
+    "code": "664648420424",
+    "inventory": null
+  },
+  {
+    "name": "Meen Perea Kozhuva",
+    "price": 11.99,
+    "code": "664648420196",
+    "inventory": null
+  },
+  {
+    "name": "Shrimp Mango",
+    "price": 11.99,
+    "code": "664648420172",
+    "inventory": null
+  },
+  {
     "name": "Amul Cow Ghee",
     "price": 26,
     "code": "8901262030243",
@@ -567,36 +597,6 @@
     "name": "Beans Luxmi",
     "price": 3.99,
     "code": "723246289007",
-    "inventory": null
-  },
-  {
-    "name": "Sambol",
-    "price": 9.99,
-    "code": "4796031010410",
-    "inventory": null
-  },
-  {
-    "name": "Coconut",
-    "price": 4.5,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Smokeless Camphor",
-    "price": 8.99,
-    "code": "8904323503649",
-    "inventory": null
-  },
-  {
-    "name": "Mustrad 200g",
-    "price": 2.99,
-    "code": "8904430101486",
-    "inventory": null
-  },
-  {
-    "name": "Hand Muruku",
-    "price": 3.99,
-    "code": "8907003504721",
     "inventory": null
   }
 ]
