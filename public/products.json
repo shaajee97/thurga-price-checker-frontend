@@ -1,5 +1,11 @@
 [
   {
+    "name": "A2 Sesame Oil",
+    "price": 26.99,
+    "code": "8908002133226",
+    "inventory": null
+  },
+  {
     "name": "Rolls 1.75",
     "price": 1.75,
     "code": "",
@@ -590,12 +596,6 @@
   {
     "name": "Bag",
     "price": 0.5,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "BF Pasta Sauce",
-    "price": 3.99,
     "code": "",
     "inventory": null
   }
