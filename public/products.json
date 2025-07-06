@@ -1,5 +1,53 @@
 [
   {
+    "name": "Chema Puttu Podi Dk",
+    "price": 5.99,
+    "code": "916047997947",
+    "inventory": null
+  },
+  {
+    "name": "Dk Roasted Rava",
+    "price": 5.99,
+    "code": "916047997978",
+    "inventory": null
+  },
+  {
+    "name": "Dk Puttu Podi",
+    "price": 5.99,
+    "code": "916047997992",
+    "inventory": null
+  },
+  {
+    "name": "Dk Rice Powder",
+    "price": 5.99,
+    "code": "916047997961",
+    "inventory": null
+  },
+  {
+    "name": "Dk Palappam",
+    "price": 5.99,
+    "code": "916047997930",
+    "inventory": null
+  },
+  {
+    "name": "Thin Poha",
+    "price": 6.5,
+    "code": "723246121420",
+    "inventory": null
+  },
+  {
+    "name": "Turmeric 200g",
+    "price": 3.99,
+    "code": "723246176994",
+    "inventory": null
+  },
+  {
+    "name": "Sesame 2l",
+    "price": 33.99,
+    "code": "723246288888",
+    "inventory": null
+  },
+  {
     "name": "Maaa",
     "price": 2.99,
     "code": "8902979044523",
@@ -549,54 +597,6 @@
     "name": "Vibuthi 50",
     "price": 2,
     "code": "8904323505230",
-    "inventory": null
-  },
-  {
-    "name": "Rotti",
-    "price": 2.5,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Drumstick Leaves",
-    "price": 3.99,
-    "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Lanka Soy",
-    "price": 1.99,
-    "code": "4796002070313",
-    "inventory": null
-  },
-  {
-    "name": "White Pepper Powder 100g",
-    "price": 3.99,
-    "code": "675305252562",
-    "inventory": null
-  },
-  {
-    "name": "Luxmi Basan 4 Lb",
-    "price": 9.5,
-    "code": "723246287454",
-    "inventory": null
-  },
-  {
-    "name": "Wijaya Chili Powder",
-    "price": 8.99,
-    "code": "4792173010035",
-    "inventory": null
-  },
-  {
-    "name": "Vermicelli 400g",
-    "price": 3.99,
-    "code": "775620803606",
-    "inventory": null
-  },
-  {
-    "name": "Beans Luxmi",
-    "price": 3.99,
-    "code": "723246289007",
     "inventory": null
   }
 ]
