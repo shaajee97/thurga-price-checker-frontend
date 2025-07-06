@@ -1,5 +1,11 @@
 [
   {
+    "name": "Mustard Oil",
+    "price": 12.99,
+    "code": "723246285672",
+    "inventory": null
+  },
+  {
     "name": "Chema Puttu Podi Dk",
     "price": 5.99,
     "code": "916047997947",
@@ -591,12 +597,6 @@
     "name": "Maldives Fishchilli",
     "price": 8.99,
     "code": "4796031010458",
-    "inventory": null
-  },
-  {
-    "name": "Vibuthi 50",
-    "price": 2,
-    "code": "8904323505230",
     "inventory": null
   }
 ]
