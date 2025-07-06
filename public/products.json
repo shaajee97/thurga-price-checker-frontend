@@ -1,5 +1,11 @@
 [
   {
+    "name": "Rolls 1.75",
+    "price": 1.75,
+    "code": "",
+    "inventory": null
+  },
+  {
     "name": "Chicken 65",
     "price": 3.5,
     "code": "8906021124003",
@@ -591,12 +597,6 @@
     "name": "BF Pasta Sauce",
     "price": 3.99,
     "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Idli Chilli Powder 100g",
-    "price": 3.99,
-    "code": "8906021124140",
     "inventory": null
   }
 ]
