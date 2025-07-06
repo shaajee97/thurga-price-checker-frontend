@@ -1,5 +1,17 @@
 [
   {
+    "name": "Chicken 65",
+    "price": 3.5,
+    "code": "8906021124003",
+    "inventory": null
+  },
+  {
+    "name": "Pultharai Aachi",
+    "price": 3.5,
+    "code": "8906021124294",
+    "inventory": null
+  },
+  {
     "name": "Mustard Oil",
     "price": 12.99,
     "code": "723246285672",
@@ -585,18 +597,6 @@
     "name": "Idli Chilli Powder 100g",
     "price": 3.99,
     "code": "8906021124140",
-    "inventory": null
-  },
-  {
-    "name": "Chia Seeds Nt 200g",
-    "price": 3.99,
-    "code": "675305257154",
-    "inventory": null
-  },
-  {
-    "name": "Maldives Fishchilli",
-    "price": 8.99,
-    "code": "4796031010458",
     "inventory": null
   }
 ]
