@@ -1,5 +1,23 @@
 [
   {
+    "name": "Garlic",
+    "price": 4.5,
+    "code": "990312084242",
+    "inventory": null
+  },
+  {
+    "name": "Rolls 2.50",
+    "price": 2.5,
+    "code": "",
+    "inventory": null
+  },
+  {
+    "name": "Rolls 1.75",
+    "price": 1.75,
+    "code": "",
+    "inventory": null
+  },
+  {
     "name": "A2 Sesame Oil",
     "price": 26.99,
     "code": "8908002133226",
@@ -579,24 +597,6 @@
     "name": "Surati Plain Khari",
     "price": 2.5,
     "code": "068656017179",
-    "inventory": null
-  },
-  {
-    "name": "Dosa Batter 1800 Cc",
-    "price": 6.5,
-    "code": "627843597704",
-    "inventory": null
-  },
-  {
-    "name": "Cumin Seeds 400g Luxmi",
-    "price": 8.99,
-    "code": "723246176475",
-    "inventory": null
-  },
-  {
-    "name": "Bag",
-    "price": 0.5,
-    "code": "",
     "inventory": null
   }
 ]
