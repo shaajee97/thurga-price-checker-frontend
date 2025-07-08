@@ -1,7 +1,31 @@
 [
   {
-    "name": "Mustard Seed Yellow 200g",
+    "name": "Plantain",
     "price": 4.99,
+    "code": "723246293417",
+    "inventory": null
+  },
+  {
+    "name": "Dateco Pitted Dates",
+    "price": 3.99,
+    "code": "6194042700265",
+    "inventory": null
+  },
+  {
+    "name": "Mabu Strawberry",
+    "price": 2.25,
+    "code": "8855044051073",
+    "inventory": null
+  },
+  {
+    "name": "Mabu Lychee",
+    "price": 2.25,
+    "code": "8855044051080",
+    "inventory": null
+  },
+  {
+    "name": "Mustard Seed Yellow 200g",
+    "price": 2.99,
     "code": "675305254221",
     "inventory": null
   },
@@ -13,7 +37,7 @@
   },
   {
     "name": "Swarana Maida 4lb",
-    "price": 10.99,
+    "price": 4.99,
     "code": "6291003611766",
     "inventory": null
   },
@@ -573,30 +597,6 @@
     "name": "Natura Coconut Water",
     "price": 4.5,
     "code": "8901088757768",
-    "inventory": null
-  },
-  {
-    "name": "Katta Dry",
-    "price": 8.99,
-    "code": "4796031010489",
-    "inventory": null
-  },
-  {
-    "name": "Surti Mummura",
-    "price": 4.99,
-    "code": "8904323501539",
-    "inventory": null
-  },
-  {
-    "name": "Black Cardamom 100g",
-    "price": 7.99,
-    "code": "916047997541",
-    "inventory": null
-  },
-  {
-    "name": "Matri 1 Lb. Nurt",
-    "price": 2.5,
-    "code": "628055838586",
     "inventory": null
   }
 ]
