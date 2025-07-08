@@ -1,5 +1,23 @@
 [
   {
+    "name": "Mustard Seed Yellow 200g",
+    "price": 4.99,
+    "code": "675305254221",
+    "inventory": null
+  },
+  {
+    "name": "Fenugreek Seed 100g",
+    "price": 2.99,
+    "code": "675305252883",
+    "inventory": null
+  },
+  {
+    "name": "Swarana Maida 4lb",
+    "price": 10.99,
+    "code": "6291003611766",
+    "inventory": null
+  },
+  {
     "name": "Garlic",
     "price": 4.5,
     "code": "990312084242",
@@ -579,24 +597,6 @@
     "name": "Matri 1 Lb. Nurt",
     "price": 2.5,
     "code": "628055838586",
-    "inventory": null
-  },
-  {
-    "name": "Tindora 300g Luxmi",
-    "price": 3.99,
-    "code": "723246260808",
-    "inventory": null
-  },
-  {
-    "name": "Dried Kooni",
-    "price": 9.99,
-    "code": "4796031010472",
-    "inventory": null
-  },
-  {
-    "name": "Surati Plain Khari",
-    "price": 2.5,
-    "code": "068656017179",
     "inventory": null
   }
 ]
