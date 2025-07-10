@@ -1,5 +1,11 @@
 [
   {
+    "name": "Condensed Milk 300ml",
+    "price": 5.5,
+    "code": "068200473055",
+    "inventory": null
+  },
+  {
     "name": "Bay Leaves",
     "price": 2.5,
     "code": "8904430102995",
@@ -591,12 +597,6 @@
     "name": "Shan Garam Masala 50g",
     "price": 2.25,
     "code": "788821060143",
-    "inventory": null
-  },
-  {
-    "name": "Karela Luxmi 300g",
-    "price": 3.99,
-    "code": "723246260792",
     "inventory": null
   }
 ]
