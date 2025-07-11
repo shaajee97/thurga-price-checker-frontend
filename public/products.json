@@ -1,5 +1,17 @@
 [
   {
+    "name": "Garlic Murugu",
+    "price": 3.99,
+    "code": "8906081383662",
+    "inventory": null
+  },
+  {
+    "name": "Daawat Rice 4lb",
+    "price": 10.99,
+    "code": "840437500038",
+    "inventory": null
+  },
+  {
     "name": "Condensed Milk 300ml",
     "price": 5.5,
     "code": "068200473055",
@@ -585,18 +597,6 @@
     "name": "777 Appalam",
     "price": 2.99,
     "code": "064333",
-    "inventory": null
-  },
-  {
-    "name": "Soya Chunks 400g Gajanand",
-    "price": 3.99,
-    "code": "8904430106245",
-    "inventory": null
-  },
-  {
-    "name": "Shan Garam Masala 50g",
-    "price": 2.25,
-    "code": "788821060143",
     "inventory": null
   }
 ]
