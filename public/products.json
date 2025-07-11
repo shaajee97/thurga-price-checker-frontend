@@ -1,5 +1,23 @@
 [
   {
+    "name": "Kitchen Of India Butter Chicken",
+    "price": 1.99,
+    "code": "841905020218",
+    "inventory": null
+  },
+  {
+    "name": "Daawat Lucknowi biriyani Kit",
+    "price": 6.99,
+    "code": "840437500014",
+    "inventory": null
+  },
+  {
+    "name": "Vatika Styling Hair Cream",
+    "price": 5.99,
+    "code": "5022496007955",
+    "inventory": null
+  },
+  {
     "name": "Garlic Murugu",
     "price": 3.99,
     "code": "8906081383662",
@@ -579,24 +597,6 @@
     "name": "Basmti Rice",
     "price": 5.99,
     "code": "8901161202017",
-    "inventory": null
-  },
-  {
-    "name": "Kumkum",
-    "price": 2.99,
-    "code": "8904323501430",
-    "inventory": null
-  },
-  {
-    "name": "Gajanand Turmric Powder 400g",
-    "price": 4.99,
-    "code": "8904430101578",
-    "inventory": null
-  },
-  {
-    "name": "777 Appalam",
-    "price": 2.99,
-    "code": "064333",
     "inventory": null
   }
 ]
