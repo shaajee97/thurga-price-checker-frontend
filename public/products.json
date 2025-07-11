@@ -1,5 +1,11 @@
 [
   {
+    "name": "Moldive Fish",
+    "price": 3.5,
+    "code": "4796000304588",
+    "inventory": null
+  },
+  {
     "name": "Kitchen Of India Butter Chicken",
     "price": 1.99,
     "code": "841905020218",
@@ -591,12 +597,6 @@
     "name": "Color Fryums Megh 200",
     "price": 2.5,
     "code": "8904323501041",
-    "inventory": null
-  },
-  {
-    "name": "Basmti Rice",
-    "price": 5.99,
-    "code": "8901161202017",
     "inventory": null
   }
 ]
