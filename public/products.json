@@ -1,5 +1,29 @@
 [
   {
+    "name": "Mani Peanut Burfy 200g",
+    "price": 3.99,
+    "code": "8908002974522",
+    "inventory": null
+  },
+  {
+    "name": "Mani Gram Balls 100 G",
+    "price": 3,
+    "code": "8908002974140",
+    "inventory": null
+  },
+  {
+    "name": "Mani Mark Mittai",
+    "price": 3,
+    "code": "8908002974935",
+    "inventory": null
+  },
+  {
+    "name": "Mani Mark Laddu",
+    "price": 3,
+    "code": "8908002974942",
+    "inventory": null
+  },
+  {
     "name": "Vanilla",
     "price": 2.99,
     "code": "8859032709090",
@@ -573,30 +597,6 @@
     "name": "Coconut Suger 500g",
     "price": 6.99,
     "code": "778399",
-    "inventory": null
-  },
-  {
-    "name": "Cc Gingerlly Oil",
-    "price": 12.99,
-    "code": "628942713903",
-    "inventory": null
-  },
-  {
-    "name": "Cinnamon 50g",
-    "price": 3.99,
-    "code": "628942710681",
-    "inventory": null
-  },
-  {
-    "name": "Indian Anchovy",
-    "price": 13.99,
-    "code": "1 0205150100 7",
-    "inventory": null
-  },
-  {
-    "name": "Cc Idli & dosa",
-    "price": 12,
-    "code": "627843597698",
     "inventory": null
   }
 ]
