@@ -1,5 +1,11 @@
 [
   {
+    "name": "Vanilla",
+    "price": 2.99,
+    "code": "8859032709090",
+    "inventory": null
+  },
+  {
     "name": "Chia Seeds",
     "price": 3.5,
     "code": "8904430114134",
@@ -591,12 +597,6 @@
     "name": "Cc Idli & dosa",
     "price": 12,
     "code": "627843597698",
-    "inventory": null
-  },
-  {
-    "name": "Horlicks",
-    "price": 11.99,
-    "code": "5060113919359",
     "inventory": null
   }
 ]
