@@ -1,5 +1,11 @@
 [
   {
+    "name": "Gajanad Chana",
+    "price": 3.99,
+    "code": "8904430112451",
+    "inventory": null
+  },
+  {
     "name": "Green Cardamin",
     "price": 8.99,
     "code": "916047997527",
@@ -591,12 +597,6 @@
     "name": "Cassava 150 G",
     "price": 3.99,
     "code": "659048128612",
-    "inventory": null
-  },
-  {
-    "name": "Sesame Oil",
-    "price": 11.99,
-    "code": "749403751149",
     "inventory": null
   }
 ]
