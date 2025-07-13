@@ -1,5 +1,23 @@
 [
   {
+    "name": "Green Cardamin",
+    "price": 8.99,
+    "code": "916047997527",
+    "inventory": null
+  },
+  {
+    "name": "Lavender",
+    "price": 2.99,
+    "code": "8902259024221",
+    "inventory": null
+  },
+  {
+    "name": "Telungu",
+    "price": 3.99,
+    "code": "8906081381330",
+    "inventory": null
+  },
+  {
     "name": "Balls",
     "price": 3,
     "code": "8908002974140",
@@ -579,24 +597,6 @@
     "name": "Sesame Oil",
     "price": 11.99,
     "code": "749403751149",
-    "inventory": null
-  },
-  {
-    "name": "Cinthol Lime",
-    "price": 1.99,
-    "code": "8901023020353",
-    "inventory": null
-  },
-  {
-    "name": "Camphor",
-    "price": 5.5,
-    "code": "8904323501515",
-    "inventory": null
-  },
-  {
-    "name": "Basil Seeds",
-    "price": 3,
-    "code": "8855044052285",
     "inventory": null
   }
 ]
