@@ -1,5 +1,17 @@
 [
   {
+    "name": "Dalia 908",
+    "price": 3.99,
+    "code": "8904323500501",
+    "inventory": null
+  },
+  {
+    "name": "Salt Biscuit",
+    "price": 5.99,
+    "code": "8908003115221",
+    "inventory": null
+  },
+  {
     "name": "Gajanad Chana",
     "price": 3.99,
     "code": "8904430112451",
@@ -585,18 +597,6 @@
     "name": "Star Murukku 200 G",
     "price": 3.99,
     "code": "644730998604",
-    "inventory": null
-  },
-  {
-    "name": "Matta Rice",
-    "price": 6.99,
-    "code": "659048127707",
-    "inventory": null
-  },
-  {
-    "name": "Cassava 150 G",
-    "price": 3.99,
-    "code": "659048128612",
     "inventory": null
   }
 ]
