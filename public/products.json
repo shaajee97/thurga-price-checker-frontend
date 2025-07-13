@@ -1,5 +1,59 @@
 [
   {
+    "name": "Camphor",
+    "price": 4.99,
+    "code": "8904323504646",
+    "inventory": null
+  },
+  {
+    "name": "Crushed Chikkki",
+    "price": 2.99,
+    "code": "723246286358",
+    "inventory": null
+  },
+  {
+    "name": "Gajanand Raw Peanuts 908g",
+    "price": 5.99,
+    "code": "8904430111737",
+    "inventory": null
+  },
+  {
+    "name": "Gajanand Chana Plain 400g",
+    "price": 3.99,
+    "code": "8904430100151",
+    "inventory": null
+  },
+  {
+    "name": "Talod Poha 500",
+    "price": 2.99,
+    "code": "8906127700477",
+    "inventory": null
+  },
+  {
+    "name": "Colgate 200g",
+    "price": 3.99,
+    "code": "8901314765314",
+    "inventory": null
+  },
+  {
+    "name": "Closeup 150g",
+    "price": 3.49,
+    "code": "8901030986451",
+    "inventory": null
+  },
+  {
+    "name": "Gajanand Ragi Whole",
+    "price": 5.99,
+    "code": "8904430112635",
+    "inventory": null
+  },
+  {
+    "name": "Gajanand Sesame Seed 400g",
+    "price": 3.99,
+    "code": "8904430101554",
+    "inventory": null
+  },
+  {
     "name": "Mani Peanut Burfy 200g",
     "price": 3.99,
     "code": "8908002974522",
@@ -543,60 +597,6 @@
     "name": "Red Chili Powder 100g Aachi",
     "price": 4.5,
     "code": "8906021124027",
-    "inventory": null
-  },
-  {
-    "name": "Anchovy Captain",
-    "price": 14.99,
-    "code": "628693877046",
-    "inventory": null
-  },
-  {
-    "name": "Pony Fish Captain",
-    "price": 9.99,
-    "code": "628693877299",
-    "inventory": null
-  },
-  {
-    "name": "Wahoo Captain",
-    "price": 20.99,
-    "code": "628693877251",
-    "inventory": null
-  },
-  {
-    "name": "Malabar Porotta 908",
-    "price": 9.99,
-    "code": "414684442115",
-    "inventory": null
-  },
-  {
-    "name": "Sliced Coconut Savoys 400",
-    "price": 5.5,
-    "code": "414684442108",
-    "inventory": null
-  },
-  {
-    "name": "Chlli Chicken 100g",
-    "price": 3.99,
-    "code": "8906021124010",
-    "inventory": null
-  },
-  {
-    "name": "Garam Masala 100g",
-    "price": 3.99,
-    "code": "8906021124119",
-    "inventory": null
-  },
-  {
-    "name": "Meat Masala 100g",
-    "price": 3.99,
-    "code": "8906021124690",
-    "inventory": null
-  },
-  {
-    "name": "Coconut Suger 500g",
-    "price": 6.99,
-    "code": "778399",
     "inventory": null
   }
 ]
