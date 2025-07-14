@@ -1,5 +1,17 @@
 [
   {
+    "name": "Lux",
+    "price": 1.99,
+    "code": "4792081033041",
+    "inventory": null
+  },
+  {
+    "name": "Opemner",
+    "price": 2.25,
+    "code": "8908000729629",
+    "inventory": null
+  },
+  {
     "name": "Dalia 908",
     "price": 3.99,
     "code": "8904323500501",
@@ -585,18 +597,6 @@
     "name": "Kalyani Muruku 150",
     "price": 3.99,
     "code": "659048126472",
-    "inventory": null
-  },
-  {
-    "name": "Onion Murukku 150 G",
-    "price": 3.99,
-    "code": "659048128605",
-    "inventory": null
-  },
-  {
-    "name": "Star Murukku 200 G",
-    "price": 3.99,
-    "code": "644730998604",
     "inventory": null
   }
 ]
