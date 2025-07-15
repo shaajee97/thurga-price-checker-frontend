@@ -1,5 +1,17 @@
 [
   {
+    "name": "Ayur Henna Tulsi",
+    "price": 6.99,
+    "code": "8906032325093",
+    "inventory": null
+  },
+  {
+    "name": "Ayur Amla Shikakai",
+    "price": 6.99,
+    "code": "8906032325079",
+    "inventory": null
+  },
+  {
     "name": "Decaann Crystal Sona",
     "price": 26,
     "code": "662712226286",
@@ -585,18 +597,6 @@
     "name": "Congura Telungu 300g",
     "price": 3.99,
     "code": "8906081381071",
-    "inventory": null
-  },
-  {
-    "name": "Rosted Dalia Megh 2lb",
-    "price": 6.99,
-    "code": "8904323503519",
-    "inventory": null
-  },
-  {
-    "name": "Monsrer",
-    "price": 2.5,
-    "code": "070847015208",
     "inventory": null
   }
 ]
