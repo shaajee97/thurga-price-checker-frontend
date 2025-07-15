@@ -1,5 +1,11 @@
 [
   {
+    "name": "Organic Oil",
+    "price": 10.99,
+    "code": "628451711483",
+    "inventory": null
+  },
+  {
     "name": "Ayur Henna Tulsi",
     "price": 6.99,
     "code": "8906032325093",
@@ -591,12 +597,6 @@
     "name": "Jain Chutney",
     "price": 3.99,
     "code": "8901595864027",
-    "inventory": null
-  },
-  {
-    "name": "Congura Telungu 300g",
-    "price": 3.99,
-    "code": "8906081381071",
     "inventory": null
   }
 ]
