@@ -1,5 +1,11 @@
 [
   {
+    "name": "Gajanad Turmeric Powder 200",
+    "price": 2.99,
+    "code": "8904430100601",
+    "inventory": null
+  },
+  {
     "name": "Organic Oil",
     "price": 10.99,
     "code": "628451711483",
@@ -591,12 +597,6 @@
     "name": "Soy 90 G",
     "price": 1.99,
     "code": "4796002070306",
-    "inventory": null
-  },
-  {
-    "name": "Jain Chutney",
-    "price": 3.99,
-    "code": "8901595864027",
     "inventory": null
   }
 ]
