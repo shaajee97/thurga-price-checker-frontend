@@ -1,5 +1,35 @@
 [
   {
+    "name": "Decaann Crystal Sona",
+    "price": 26,
+    "code": "662712226286",
+    "inventory": null
+  },
+  {
+    "name": "Deccan Kairali 10",
+    "price": 13.99,
+    "code": "638255894909",
+    "inventory": null
+  },
+  {
+    "name": "Deccan Dosa Rice",
+    "price": 15.99,
+    "code": "8906147051009",
+    "inventory": null
+  },
+  {
+    "name": "Decaan Jeerasala",
+    "price": 17.99,
+    "code": "8906147052884",
+    "inventory": null
+  },
+  {
+    "name": "Deccan Idli Rice",
+    "price": 13.99,
+    "code": "662712226279",
+    "inventory": null
+  },
+  {
     "name": "Lux",
     "price": 1.99,
     "code": "4792081033041",
@@ -567,36 +597,6 @@
     "name": "Monsrer",
     "price": 2.5,
     "code": "070847015208",
-    "inventory": null
-  },
-  {
-    "name": "Fennal Seds 200g",
-    "price": 3.99,
-    "code": "723246178004",
-    "inventory": null
-  },
-  {
-    "name": "Bombay Duck 200g",
-    "price": 8.99,
-    "code": "4796031010618",
-    "inventory": null
-  },
-  {
-    "name": "Maggi Sauce Piquante",
-    "price": 4.5,
-    "code": "055000595001",
-    "inventory": null
-  },
-  {
-    "name": "Corn Flourr 2lb Mega",
-    "price": 3.99,
-    "code": "8904323500532",
-    "inventory": null
-  },
-  {
-    "name": "Kalyani Muruku 150",
-    "price": 3.99,
-    "code": "659048126472",
     "inventory": null
   }
 ]
