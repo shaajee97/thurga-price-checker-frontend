@@ -1,5 +1,11 @@
 [
   {
+    "name": "Cocumt Slices",
+    "price": 4.99,
+    "code": "723246288390",
+    "inventory": null
+  },
+  {
     "name": "Luxmi Black Sesame 400g",
     "price": 3.99,
     "code": "723246176888",
@@ -591,12 +597,6 @@
     "name": "Karpu Kanvuni",
     "price": 7.99,
     "code": "779140007810",
-    "inventory": null
-  },
-  {
-    "name": "Laxmi  Laddu 100g",
-    "price": 2,
-    "code": "723246286402",
     "inventory": null
   }
 ]
