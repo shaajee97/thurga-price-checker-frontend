@@ -1,5 +1,11 @@
 [
   {
+    "name": "Luxmi Black Sesame 400g",
+    "price": 3.99,
+    "code": "723246176888",
+    "inventory": null
+  },
+  {
     "name": "Gajanad Turmeric Powder 200",
     "price": 2.99,
     "code": "8904430100601",
@@ -591,12 +597,6 @@
     "name": "Laxmi  Laddu 100g",
     "price": 2,
     "code": "723246286402",
-    "inventory": null
-  },
-  {
-    "name": "Soy 90 G",
-    "price": 1.99,
-    "code": "4796002070306",
     "inventory": null
   }
 ]
