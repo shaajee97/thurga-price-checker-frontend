@@ -1,5 +1,11 @@
 [
   {
+    "name": "Moringa Powder",
+    "price": 2.99,
+    "code": "607353765794",
+    "inventory": null
+  },
+  {
     "name": "Tata Coffee Cafe",
     "price": 5.99,
     "code": "8901090213832",
@@ -591,12 +597,6 @@
     "name": "Rexona 80g",
     "price": 1.5,
     "code": "4792081036943",
-    "inventory": null
-  },
-  {
-    "name": "Whole Whet",
-    "price": 13.99,
-    "code": "9556587102350",
     "inventory": null
   }
 ]
