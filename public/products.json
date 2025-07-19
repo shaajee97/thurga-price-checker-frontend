@@ -1,5 +1,23 @@
 [
   {
+    "name": "Bajri 2lb",
+    "price": 3.99,
+    "code": "8904323500617",
+    "inventory": null
+  },
+  {
+    "name": "Besan 2lb",
+    "price": 3.99,
+    "code": "8904323500600",
+    "inventory": null
+  },
+  {
+    "name": "Sooji 2lb",
+    "price": 3.99,
+    "code": "8904323504677",
+    "inventory": null
+  },
+  {
     "name": "Parachute Blckseed",
     "price": 9.99,
     "code": "8901088735124",
@@ -61,7 +79,7 @@
   },
   {
     "name": "Luxmi Black Sesame 400g",
-    "price": 3.99,
+    "price": 4.5,
     "code": "723246176888",
     "inventory": null
   },
@@ -579,24 +597,6 @@
     "name": "Dalia Whole 200",
     "price": 2.99,
     "code": "675305253118",
-    "inventory": null
-  },
-  {
-    "name": "Mini Idly",
-    "price": 9.99,
-    "code": "723246290577",
-    "inventory": null
-  },
-  {
-    "name": "Meat Curry Powder Wijaya 250g",
-    "price": 4.99,
-    "code": "4792173050024",
-    "inventory": null
-  },
-  {
-    "name": "Color Fryums",
-    "price": 2.5,
-    "code": "8904323501034",
     "inventory": null
   }
 ]
