@@ -1,5 +1,17 @@
 [
   {
+    "name": "Saffola Creamy Oats 500",
+    "price": 4.99,
+    "code": "8901088155496",
+    "inventory": null
+  },
+  {
+    "name": "Saffola Chessy Oats 400g",
+    "price": 4.99,
+    "code": "8901088752794",
+    "inventory": null
+  },
+  {
     "name": "Aloo",
     "price": 2.25,
     "code": "820294212305",
@@ -585,18 +597,6 @@
     "name": "Chanan Powder",
     "price": 2.99,
     "code": "8904323503984",
-    "inventory": null
-  },
-  {
-    "name": "Chinese Chilli Paste 200g",
-    "price": 5.99,
-    "code": "4792082700041",
-    "inventory": null
-  },
-  {
-    "name": "Mc Katta Sambol",
-    "price": 8.99,
-    "code": "4792082700119",
     "inventory": null
   }
 ]
