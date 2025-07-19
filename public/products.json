@@ -1,5 +1,11 @@
 [
   {
+    "name": "Aloo",
+    "price": 2.25,
+    "code": "820294212305",
+    "inventory": null
+  },
+  {
     "name": "Moringa Powder",
     "price": 2.99,
     "code": "607353765794",
@@ -591,12 +597,6 @@
     "name": "Mc Katta Sambol",
     "price": 8.99,
     "code": "4792082700119",
-    "inventory": null
-  },
-  {
-    "name": "Rexona 80g",
-    "price": 1.5,
-    "code": "4792081036943",
     "inventory": null
   }
 ]
