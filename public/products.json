@@ -1,5 +1,29 @@
 [
   {
+    "name": "Parachute Blckseed",
+    "price": 9.99,
+    "code": "8901088735124",
+    "inventory": null
+  },
+  {
+    "name": "Parachute Argan",
+    "price": 9.99,
+    "code": "8901088168861",
+    "inventory": null
+  },
+  {
+    "name": "Parachute Castor Oil",
+    "price": 9.99,
+    "code": "8901088168885",
+    "inventory": null
+  },
+  {
+    "name": "Megh Dalia 1lb",
+    "price": 2.99,
+    "code": "8904323500273",
+    "inventory": null
+  },
+  {
     "name": "Saffola Creamy Oats 500",
     "price": 4.99,
     "code": "8901088155496",
@@ -573,30 +597,6 @@
     "name": "Color Fryums",
     "price": 2.5,
     "code": "8904323501034",
-    "inventory": null
-  },
-  {
-    "name": "Rooti Methi",
-    "price": 5,
-    "code": "627265012656",
-    "inventory": null
-  },
-  {
-    "name": "Dried Anchoyes",
-    "price": 8.99,
-    "code": "4796031010533",
-    "inventory": null
-  },
-  {
-    "name": "Lanka Soy",
-    "price": 1.99,
-    "code": "4796002070160",
-    "inventory": null
-  },
-  {
-    "name": "Chanan Powder",
-    "price": 2.99,
-    "code": "8904323503984",
     "inventory": null
   }
 ]
