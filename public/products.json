@@ -1,5 +1,11 @@
 [
   {
+    "name": "Jamaican Pride 340g",
+    "price": 4.99,
+    "code": "069065003982",
+    "inventory": null
+  },
+  {
     "name": "Chilli 3.00",
     "price": 3,
     "code": "",
@@ -24,9 +30,9 @@
     "inventory": null
   },
   {
-    "name": "Parachute Blckseed",
+    "name": "Parachute Blackseed",
     "price": 9.99,
-    "code": "8901088735124",
+    "code": "",
     "inventory": null
   },
   {
@@ -591,12 +597,6 @@
     "name": "Triphala Neem",
     "price": 5.99,
     "code": "046139068986",
-    "inventory": null
-  },
-  {
-    "name": "Fennsl",
-    "price": 5.99,
-    "code": "8904430101585",
     "inventory": null
   }
 ]
