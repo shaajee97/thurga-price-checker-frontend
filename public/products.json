@@ -1,5 +1,11 @@
 [
   {
+    "name": "Buddha Coconut Water 330ml",
+    "price": 1.99,
+    "code": "852953001494",
+    "inventory": null
+  },
+  {
     "name": "Jamaican Pride 340g",
     "price": 4.99,
     "code": "069065003982",
@@ -591,12 +597,6 @@
     "name": "Karela Jamun Neem",
     "price": 5.99,
     "code": "461390690200",
-    "inventory": null
-  },
-  {
-    "name": "Triphala Neem",
-    "price": 5.99,
-    "code": "046139068986",
     "inventory": null
   }
 ]
