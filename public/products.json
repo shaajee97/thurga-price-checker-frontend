@@ -1,5 +1,11 @@
 [
   {
+    "name": "Pineapple Chutney",
+    "price": 9.99,
+    "code": "4792082700218",
+    "inventory": null
+  },
+  {
     "name": "Laxmi 800g Dalia",
     "price": 5.99,
     "code": "723246211244",
@@ -591,12 +597,6 @@
     "name": "Magic Masala",
     "price": 2.99,
     "code": "8901058007220",
-    "inventory": null
-  },
-  {
-    "name": "Special Masala Maggi",
-    "price": 3.99,
-    "code": "8901058005790",
     "inventory": null
   }
 ]
