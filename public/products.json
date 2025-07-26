@@ -1,5 +1,11 @@
 [
   {
+    "name": "Mixed Pickle",
+    "price": 5.5,
+    "code": "4792098121144",
+    "inventory": null
+  },
+  {
     "name": "Agarpathi",
     "price": 1.5,
     "code": "8902259024948",
@@ -591,12 +597,6 @@
     "name": "Nadan Chapati 10",
     "price": 4.99,
     "code": "749565640329",
-    "inventory": null
-  },
-  {
-    "name": "Banana Fry 1kg",
-    "price": 9.99,
-    "code": "659048126267",
     "inventory": null
   }
 ]
