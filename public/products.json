@@ -1,5 +1,17 @@
 [
   {
+    "name": "Agarpathi",
+    "price": 1.5,
+    "code": "8902259024948",
+    "inventory": null
+  },
+  {
+    "name": "Lychee",
+    "price": 2.5,
+    "code": "3875047051080",
+    "inventory": null
+  },
+  {
     "name": "Pineapple Chutney",
     "price": 9.99,
     "code": "4792082700218",
@@ -585,18 +597,6 @@
     "name": "Banana Fry 1kg",
     "price": 9.99,
     "code": "659048126267",
-    "inventory": null
-  },
-  {
-    "name": "Perk 20gm",
-    "price": 1,
-    "code": "7622202265525",
-    "inventory": null
-  },
-  {
-    "name": "Magic Masala",
-    "price": 2.99,
-    "code": "8901058007220",
     "inventory": null
   }
 ]
