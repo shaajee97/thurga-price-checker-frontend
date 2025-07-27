@@ -1,5 +1,11 @@
 [
   {
+    "name": "Maggi 1 Kg",
+    "price": 5.99,
+    "code": "055000211406",
+    "inventory": null
+  },
+  {
     "name": "Lemmee",
     "price": 2.99,
     "code": "8906100881933",
@@ -591,12 +597,6 @@
     "name": "Kili Parotta",
     "price": 12.99,
     "code": "659048126212",
-    "inventory": null
-  },
-  {
-    "name": "Idiyappam 1kg",
-    "price": 8.99,
-    "code": "659048126274",
     "inventory": null
   }
 ]
