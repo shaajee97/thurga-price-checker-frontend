@@ -1,5 +1,17 @@
 [
   {
+    "name": "Necto",
+    "price": 3.5,
+    "code": "4791066004113",
+    "inventory": null
+  },
+  {
+    "name": "Panee",
+    "price": 3.99,
+    "code": "194899000040",
+    "inventory": null
+  },
+  {
     "name": "Maggi 1 Kg",
     "price": 5.99,
     "code": "055000211406",
@@ -403,7 +415,7 @@
   },
   {
     "name": "Dateco Pitted Dates",
-    "price": 3.99,
+    "price": 4.99,
     "code": "6194042700265",
     "inventory": null
   },
@@ -585,18 +597,6 @@
     "name": "Parachute 100",
     "price": 2.99,
     "code": "89002940",
-    "inventory": null
-  },
-  {
-    "name": "Carrmel Pudding",
-    "price": 2.99,
-    "code": "4792098312832",
-    "inventory": null
-  },
-  {
-    "name": "Kili Parotta",
-    "price": 12.99,
-    "code": "659048126212",
     "inventory": null
   }
 ]
