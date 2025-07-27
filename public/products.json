@@ -1,5 +1,17 @@
 [
   {
+    "name": "Lemmee",
+    "price": 2.99,
+    "code": "8906100881933",
+    "inventory": null
+  },
+  {
+    "name": "Shan Briyani",
+    "price": 2.99,
+    "code": "788821009098",
+    "inventory": null
+  },
+  {
     "name": "Mixed Pickle",
     "price": 5.5,
     "code": "4792098121144",
@@ -585,18 +597,6 @@
     "name": "Idiyappam 1kg",
     "price": 8.99,
     "code": "659048126274",
-    "inventory": null
-  },
-  {
-    "name": "Boli 13",
-    "price": 5.99,
-    "code": "749565642675",
-    "inventory": null
-  },
-  {
-    "name": "Nadan Chapati 10",
-    "price": 4.99,
-    "code": "749565640329",
     "inventory": null
   }
 ]
