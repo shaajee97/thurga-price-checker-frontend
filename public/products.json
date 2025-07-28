@@ -1,5 +1,11 @@
 [
   {
+    "name": "Suji",
+    "price": 7.99,
+    "code": "8904323500365",
+    "inventory": null
+  },
+  {
     "name": "Necto",
     "price": 3.5,
     "code": "4791066004113",
@@ -591,12 +597,6 @@
     "name": "Puttu",
     "price": 8.5,
     "code": "",
-    "inventory": null
-  },
-  {
-    "name": "Parachute 100",
-    "price": 2.99,
-    "code": "89002940",
     "inventory": null
   }
 ]
