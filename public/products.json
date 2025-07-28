@@ -1,5 +1,11 @@
 [
   {
+    "name": "Jera",
+    "price": 2.99,
+    "code": "8906100881865",
+    "inventory": null
+  },
+  {
     "name": "Suji",
     "price": 7.99,
     "code": "8904323500365",
@@ -591,12 +597,6 @@
     "name": "Waiwai",
     "price": 0.89,
     "code": "8906013030022",
-    "inventory": null
-  },
-  {
-    "name": "Puttu",
-    "price": 8.5,
-    "code": "",
     "inventory": null
   }
 ]
