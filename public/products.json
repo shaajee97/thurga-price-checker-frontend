@@ -1,5 +1,11 @@
 [
   {
+    "name": "Red Dabur",
+    "price": 4.99,
+    "code": "8901207027321",
+    "inventory": null
+  },
+  {
     "name": "Maggi",
     "price": 3.99,
     "code": "00416528",
@@ -591,12 +597,6 @@
     "name": "Shrimp Mango",
     "price": 11.99,
     "code": "664648420172",
-    "inventory": null
-  },
-  {
-    "name": "Amul Cow Ghee",
-    "price": 26,
-    "code": "8901262030243",
     "inventory": null
   }
 ]
