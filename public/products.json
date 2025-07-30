@@ -1,5 +1,29 @@
 [
   {
+    "name": "Renso Coconut Milk 400ml",
+    "price": 1.99,
+    "code": "8936220560036",
+    "inventory": null
+  },
+  {
+    "name": "Renso Coconut Water 1000 Ml",
+    "price": 3.5,
+    "code": "8936220560050",
+    "inventory": null
+  },
+  {
+    "name": "Renso Coiconut Water 500ml",
+    "price": 1.75,
+    "code": "8936220560067",
+    "inventory": null
+  },
+  {
+    "name": "Renso Coconut Cream 400 Ml",
+    "price": 2.5,
+    "code": "8936220560043",
+    "inventory": null
+  },
+  {
     "name": "Red Dabur",
     "price": 4.99,
     "code": "8901207027321",
@@ -573,30 +597,6 @@
     "name": "Maaa",
     "price": 2.99,
     "code": "8902979044523",
-    "inventory": null
-  },
-  {
-    "name": "Mackeral Curry",
-    "price": 10.99,
-    "code": "664648420202",
-    "inventory": null
-  },
-  {
-    "name": "Fish Cutlet",
-    "price": 9.99,
-    "code": "664648420424",
-    "inventory": null
-  },
-  {
-    "name": "Meen Perea Kozhuva",
-    "price": 11.99,
-    "code": "664648420196",
-    "inventory": null
-  },
-  {
-    "name": "Shrimp Mango",
-    "price": 11.99,
-    "code": "664648420172",
     "inventory": null
   }
 ]
