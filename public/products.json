@@ -1,5 +1,17 @@
 [
   {
+    "name": "DD Dosa",
+    "price": 6.99,
+    "code": "665244215018",
+    "inventory": null
+  },
+  {
+    "name": "Dd Puttu White",
+    "price": 5.99,
+    "code": "665244219016",
+    "inventory": null
+  },
+  {
     "name": "Renso Coconut Milk 400ml",
     "price": 1.99,
     "code": "8936220560036",
@@ -585,18 +597,6 @@
     "name": "Turmeric 200g",
     "price": 3.99,
     "code": "723246176994",
-    "inventory": null
-  },
-  {
-    "name": "Sesame 2l",
-    "price": 33.99,
-    "code": "723246288888",
-    "inventory": null
-  },
-  {
-    "name": "Maaa",
-    "price": 2.99,
-    "code": "8902979044523",
     "inventory": null
   }
 ]
