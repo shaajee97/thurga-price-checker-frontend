@@ -1,5 +1,47 @@
 [
   {
+    "name": "Joshina",
+    "price": 5.99,
+    "code": "8901453017312",
+    "inventory": null
+  },
+  {
+    "name": "Banana Flavour",
+    "price": 2.25,
+    "code": "4792020311025",
+    "inventory": null
+  },
+  {
+    "name": "Amla Powder",
+    "price": 2.99,
+    "code": "616612098559",
+    "inventory": null
+  },
+  {
+    "name": "Shikai Powder",
+    "price": 2.99,
+    "code": "616612098016",
+    "inventory": null
+  },
+  {
+    "name": "Indigo Powder",
+    "price": 3.99,
+    "code": "607353765787",
+    "inventory": null
+  },
+  {
+    "name": "Vicgo  Turmeric",
+    "price": 6.99,
+    "code": "8901288230801",
+    "inventory": null
+  },
+  {
+    "name": "Prince Mixture",
+    "price": 3.99,
+    "code": "",
+    "inventory": null
+  },
+  {
     "name": "DD Dosa",
     "price": 6.99,
     "code": "665244215018",
@@ -555,48 +597,6 @@
     "name": "Mustard Oil",
     "price": 12.99,
     "code": "723246285672",
-    "inventory": null
-  },
-  {
-    "name": "Chema Puttu Podi Dk",
-    "price": 5.99,
-    "code": "916047997947",
-    "inventory": null
-  },
-  {
-    "name": "Dk Roasted Rava",
-    "price": 5.99,
-    "code": "916047997978",
-    "inventory": null
-  },
-  {
-    "name": "Dk Puttu Podi",
-    "price": 5.99,
-    "code": "916047997992",
-    "inventory": null
-  },
-  {
-    "name": "Dk Rice Powder",
-    "price": 5.99,
-    "code": "916047997961",
-    "inventory": null
-  },
-  {
-    "name": "Dk Palappam",
-    "price": 5.99,
-    "code": "916047997930",
-    "inventory": null
-  },
-  {
-    "name": "Thin Poha",
-    "price": 6.5,
-    "code": "723246121420",
-    "inventory": null
-  },
-  {
-    "name": "Turmeric 200g",
-    "price": 3.99,
-    "code": "723246176994",
     "inventory": null
   }
 ]
